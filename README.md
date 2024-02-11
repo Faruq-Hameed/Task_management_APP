@@ -11,7 +11,7 @@ A simple task management application built with TypeScript, Express.js, and Mong
 ## Installation
 
 1. Clone the repository:
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Faruq-Hameed/Task_management_APP.git)>
 cd First_TypeScript_Project
 
 
